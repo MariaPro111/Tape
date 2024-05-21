@@ -1,0 +1,5 @@
+writing_delay_=5
+reading_delay_=4
+rewind_delay_=3
+shift_delay_=4
+M =3

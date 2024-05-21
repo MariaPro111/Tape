@@ -1,0 +1,3 @@
+/home/marya/CLionProjects/Tape/cmake-build-debug/CMakeFiles/program.dir
+/home/marya/CLionProjects/Tape/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marya/CLionProjects/Tape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
